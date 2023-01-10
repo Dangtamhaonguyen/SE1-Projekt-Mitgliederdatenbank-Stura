@@ -27,7 +27,7 @@ Die Risiken sind in folgender Tabelle: <<table_risks>> dargestellt. Das Datum de
 [.landscape]
 <<<
 
-image::risk_list.png[]
+image::risk_list.png
 
 
 
