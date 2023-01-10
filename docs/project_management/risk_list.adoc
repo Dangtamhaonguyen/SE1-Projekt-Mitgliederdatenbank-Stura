@@ -27,7 +27,7 @@ Die Risiken sind in folgender Tabelle: <<table_risks>> dargestellt. Das Datum de
 [.landscape]
 <<<
 
-include::docs/project_management/images/risk_list.pdf[]
+image::risk_list.pdf[]
 
 
 
